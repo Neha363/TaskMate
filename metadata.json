@@ -1,0 +1,6 @@
+{
+  "name": "TaskMate – Personal To-Do Manager",
+  "description": "A modern, responsive personal to-do list and productivity dashboard built with React and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
